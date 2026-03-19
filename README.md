@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Uday – a college student with a passion for web development, AI/ML, and cutting-edge tech. I’m an enthusiastic coder who loves turning ideas into projects and exploring new technologies.<br>💻 I enjoy building creative web apps, experimenting with machine learning models, and continuously learning to level up my skills. My GitHub is a growing space where I’ll be adding more projects soon, so stay tuned!<br>🚀 Always curious, always coding, and always pushing myself to learn something new every day. I'll build something cool stuffs in future and upload it here!
+👋 Hi, I’m Uday – a college student with a passion for web development, AI/ML, and cutting-edge tech. I’m an enthusiastic coder who loves turning ideas into projects and exploring new technologies.<br>💻 I enjoy building creative web apps, experimenting with machine learning models, and continuously learning to level up my skills. My GitHub is a growing space where I’ll be adding more projects soon, so stay tuned!<br>🚀 Always curious, always coding, and always pushing myself to learn something new every day. I'll build something cool stuffs in future and upload it here...
 
 
 ## 🌐 Socials:
