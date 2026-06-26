@@ -1,75 +1,78 @@
-# 👋 Hi, I’m Uday
+# 👋 Hi, I’m Uday Mehta
 
-🚀 Full-Stack Developer | AI/ML Explorer | Tech Builder
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;AI%2FML+Explorer;Problem+Solver;Always+Building+Something+Cool" />
+</p>
 
 ---
 
 ## 💫 About Me
 
-I’m a college student passionate about building real-world software products using modern web technologies and AI/ML.
+I’m a college student focused on building real-world software products using modern web technologies and AI/ML.
 
-I enjoy turning ideas into working systems — from full-stack web apps to intelligent backend services. Currently, I’m focused on improving my development skills, building projects, and exploring scalable system design.
-
-I believe in learning by building.
+<p align="center">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=udaymehta5&data=followers,repositories,stars,commits" />
+</p>
 
 ---
 
 ## 🧠 Currently Focused On
-- Building full-stack web applications
-- Improving Data Structures & Algorithms for interviews
-- Exploring AI/ML integration in real products
-- Learning system design fundamentals
-
----
-
-## 🚀 Featured Projects
-
-### 💼 FinServe – Personal Finance AI
-AI-powered finance tracker with authentication, dashboards, and smart insights for expenses and budgeting.
-
-### 💬 Real-Time Chat App
-Socket.io-based messaging platform with live communication, authentication, and responsive UI.
-
-> More projects coming soon as I build and ship regularly.
+- Building scalable full-stack applications  
+- Improving DSA + problem solving  
+- Exploring AI/ML integration in real products  
+- Learning system design fundamentals  
 
 ---
 
 ## 💻 Tech Stack
 
-### Frontend
-React • Next.js • Tailwind CSS • JavaScript
-
-### Backend
-Node.js • Express • FastAPI
-
-### Databases
-MongoDB • PostgreSQL • Firebase
-
-### AI / ML
-Python • NumPy • Pandas • Scikit-learn • PyTorch
-
-### Tools & Platforms
-Git • GitHub • JWT • NPM • Vite
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,fastapi,mongodb,postgres,python,js,ts,git,github,firebase,aws" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=udaymehta5&theme=github_dark_dimmed&show_icons=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=udaymehta5&show_icons=true&theme=tokyonight" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=udaymehta5&theme=github_dark_dimmed)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=udaymehta5&theme=tokyonight" />
+</p>
 
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=udaymehta5&layout=compact&theme=github_dark_dimmed)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaymehta5&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/uday-mehta-9b3134339/)
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:udaymehta005@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/uday-mehta-9b3134339/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:udaymehta005@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ## ⚡ Philosophy
 
-> “Build, ship, learn, repeat.”
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+> “Build. Ship. Improve. Repeat.”
