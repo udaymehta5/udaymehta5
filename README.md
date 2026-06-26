@@ -76,3 +76,9 @@ I’m a college student focused on building real-world software products using m
 </p>
 
 > “Build. Ship. Improve. Repeat.”
+>
+> ## 📈 Contribution Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=udaymehta5&theme=tokyo-night" />
+</p>
