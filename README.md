@@ -1,26 +1,23 @@
-# 👋 Hi, I’m Uday Mehta
+# 👋 Hi, I'm Uday Mehta
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;AI%2FML+Explorer;Problem+Solver;Always+Building+Something+Cool" />
+  <img src="https://readme-typing-svg.demolab.com/?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;AI%2FML+Explorer;Problem+Solver;Always+Building+Something+Cool" />
 </p>
 
 ---
 
 ## 💫 About Me
 
-I’m a college student focused on building real-world software products using modern web technologies and AI/ML.
-
-<p align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=udaymehta5&data=followers,repositories,stars,commits" />
-</p>
+I'm a college student focused on building real-world software products using modern web technologies and AI/ML.
 
 ---
 
 ## 🧠 Currently Focused On
-- Building scalable full-stack applications  
-- Improving DSA + problem solving  
-- Exploring AI/ML integration in real products  
-- Learning system design fundamentals  
+
+- Building scalable full-stack applications
+- Improving DSA + problem solving
+- Exploring AI/ML integration in real products
+- Learning system design fundamentals
 
 ---
 
@@ -35,15 +32,15 @@ I’m a college student focused on building real-world software products using m
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=udaymehta5&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=udaymehta5&show_icons=true&theme=tokyonight&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=udaymehta5&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=udaymehta5&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaymehta5&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaymehta5&layout=compact&theme=tokyonight&cache_seconds=86400" />
 </p>
 
 ---
@@ -75,7 +72,4 @@ I’m a college student focused on building real-world software products using m
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
-> “Build. Ship. Improve. Repeat.”
->
-
-
+> "Build. Ship. Improve. Repeat."
