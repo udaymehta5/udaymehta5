@@ -31,17 +31,12 @@ I'm a college student focused on building real-world software products using mod
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=udaymehta5&show_icons=true&theme=tokyonight&cache_seconds=86400" />
-</p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=udaymehta5&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaymehta5&layout=compact&theme=tokyonight&cache_seconds=86400" />
-</p>
 
 ---
 
