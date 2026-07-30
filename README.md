@@ -35,7 +35,7 @@ B.Tech CS (AI/ML) student building real-world software products at the intersect
 |---|---|
 | **FinServe** | MERN fintech app with an AI CFO feature |
 | **AI Resume Matcher** | Three-tier NLP app using spaCy NER + sentence-transformers |
-| **DevDesk** | Semantic-caching AI support chatbot (AB Talks capstone) |
+| **Upcoming** | New AI + full-stack projects in the pipeline — stay tuned 🚧 |
 
 ---
 
