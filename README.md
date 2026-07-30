@@ -1,23 +1,23 @@
-# 👋 Hi, I'm Uday Mehta
+<h1 align="center">👋 Hi, I'm Uday Mehta</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;AI%2FML+Explorer;Problem+Solver;Always+Building+Something+Cool" />
+  <img src="https://readme-typing-svg.demolab.com/?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;AI%2FML+Engineer;Problem+Solver;Always+Building+Something+Cool" />
 </p>
 
 ---
 
 ## 💫 About Me
 
-I'm a college student focused on building real-world software products using modern web technologies and AI/ML.
+B.Tech CS (AI/ML) student building real-world software products at the intersection of full-stack development and applied AI. Currently interning as a **Front-End AI Engineering Intern @ FlyRank AI** and an **AI Intern @ CodeAlpha**.
 
 ---
 
 ## 🧠 Currently Focused On
 
-- Building scalable full-stack applications
-- Improving DSA + problem solving
-- Exploring AI/ML integration in real products
-- Learning system design fundamentals
+- 🏗️ Building scalable full-stack applications (MERN, Next.js)
+- 🤖 Shipping AI-integrated products — NLP, semantic search, RAG
+- 🧩 Sharpening DSA + problem solving
+- 📐 Learning system design fundamentals
 
 ---
 
@@ -29,14 +29,13 @@ I'm a college student focused on building real-world software products using mod
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Featured Projects
 
-
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=udaymehta5&theme=tokyonight" />
-</p>
-
+| Project | Description |
+|---|---|
+| **FinServe** | MERN fintech app with an AI CFO feature |
+| **AI Resume Matcher** | Three-tier NLP app using spaCy NER + sentence-transformers |
+| **DevDesk** | Semantic-caching AI support chatbot (AB Talks capstone) |
 
 ---
 
