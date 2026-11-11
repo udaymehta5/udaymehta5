@@ -8,7 +8,7 @@
 
 ## 💫 About Me
 
-B.Tech CS (AI/ML) student building real-world software products at the intersection of full-stack development and applied AI. Currently interning as a **Front-End AI Engineering Intern @ FlyRank AI** and an **AI Intern @ CodeAlpha**.
+B.Tech CS (AI/ML) student building real-world software products at the intersection of full-stack development and applied AI. 
 
 ---
 
